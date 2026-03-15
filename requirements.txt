@@ -4,3 +4,4 @@ sqlalchemy
 pydantic
 redis
 python-dotenv
+passlib[bcrypt]
